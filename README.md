@@ -1,4 +1,4 @@
-# NLP_Part-of-speech-tagger-POS_Flask
+# NLP_Marathi_Part-of-speech-tagger-POS_Flask
 Natural Language Processing
 Marathi Part of Speech Tagger
 Flask
